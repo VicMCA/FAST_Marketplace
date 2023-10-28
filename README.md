@@ -9,3 +9,5 @@ Este é um projeto de simulação de um banco de dados de uma loja de departamen
 - FAST_Marketplace-Data_Connection.sql = Povoa as tabelas de conexão
 
 Linha nova que vai ser revertida
+
+Mais uma linha, só que esta foi alterada no repositório remoto.
